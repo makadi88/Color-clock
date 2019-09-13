@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    height: 100%;
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+#clock {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    margin-top: -34px;
+    font-size: 68px;
+}
